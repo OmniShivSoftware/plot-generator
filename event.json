@@ -1,0 +1,44 @@
+{
+  "1": [
+    { "x": 10, "y": 10, "label": "Point 1" },
+    { "x": 30, "y": 30, "label": "Point 2" },
+    { "x": 50, "y": 50, "label": "Point 3" },
+    { "x": 70, "y": 70, "label": "Point 4" },
+    { "x": 90, "y": 90, "label": "Point 5" }
+  ],
+  "2": [
+    { "x": 10, "y": 90, "label": "Point 1" },
+    { "x": 30, "y": 70, "label": "Point 2" },
+    { "x": 50, "y": 50, "label": "Point 3" },
+    { "x": 70, "y": 30, "label": "Point 4" },
+    { "x": 90, "y": 10, "label": "Point 5" }
+  ],
+  "3": [
+    { "x": 30, "y": 10, "label": "Point 1" },
+    { "x": 10, "y": 30, "label": "Point 2" },
+    { "x": 70, "y": 50, "label": "Point 3" },
+    { "x": 50, "y": 70, "label": "Point 4" },
+    { "x": 70, "y": 90, "label": "Point 5" }
+  ],
+  "4": [
+    { "x": 10, "y": 30, "label": "Point 1" },
+    { "x": 30, "y": 10, "label": "Point 2" },
+    { "x": 50, "y": 70, "label": "Point 3" },
+    { "x": 70, "y": 50, "label": "Point 4" },
+    { "x": 90, "y": 70, "label": "Point 5" }
+  ],
+  "5": [
+    { "x": 10, "y": 20, "label": "Point 1" },
+    { "x": 30, "y": 40, "label": "Point 2" },
+    { "x": 50, "y": 60, "label": "Point 3" },
+    { "x": 70, "y": 80, "label": "Point 4" },
+    { "x": 90, "y": 10, "label": "Point 5" }
+  ],
+  "6": [
+    { "x": 20, "y": 10, "label": "Point 1" },
+    { "x": 40, "y": 30, "label": "Point 2" },
+    { "x": 60, "y": 50, "label": "Point 3" },
+    { "x": 80, "y": 70, "label": "Point 4" },
+    { "x": 10, "y": 90, "label": "Point 5" }
+  ]
+}
