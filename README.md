@@ -20,4 +20,6 @@
 ./invoke.sh
 ```
 2. Copy the content of out.json file that contains the output.
-3. 
+3. Paste the output here [2] and verify that the report contents.
+
+[2] https://codebeautify.org/base64-to-image-converter 
